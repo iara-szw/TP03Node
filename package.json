@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "ej1": "node src/module/ej01.js",
     "ej2": "node ej2.js",
-    "ej3": "node ej3.js",
+    "ej3": "node src/modules/ej03.js",
     "ej4": "node src/modules/ej04.js",
     "ej5": "node ej5.js",
     "ej6": "node ej6.js",
@@ -19,6 +19,7 @@
     "ej9": "node ej9.js"
   },
   "dependencies": {
-    "dayjs": "^1.11.20"
+    "dayjs": "^1.11.20",
+    "node-fetch": "^3.3.2"
   }
 }
