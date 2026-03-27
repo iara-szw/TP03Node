@@ -1,0 +1,21 @@
+{
+  "name": "tp03",
+  "version": "1.0.0",
+  "description": "tp03",
+  "license": "ISC",
+  "author": "Jua L y Iara S",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "node ej1.js",
+    "ej2": "node ej2.js",
+    "ej3": "node ej3.js",
+    "ej4": "node ej4.js",
+    "ej5": "node ej5.js",
+    "ej6": "node ej6.js",
+    "ej7": "node ej7.js",
+    "ej8": "node ej8.js",
+    "ej9": "node ej9.js"
+  }
+}
