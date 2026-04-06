@@ -1,7 +1,6 @@
 import fs from 'fs';
 
-agregarProducto( );
-
+agregarProducto("Manzana", 100);
 function agregarProducto(nombre, precio){
     if (!nombre || typeof nombre !== 'string' || nombre.trim() === '') {
         console.error('El producto tiene que tener un nombre valido.');
